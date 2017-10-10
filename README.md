@@ -75,7 +75,7 @@ To better understand the power of this tool, check out following guides. To expl
 
 # Advanced usage
 
->_I've already worked with this tool. I now it basic functions. I want more._
+>_I've already worked with this tool. I've mastered its basic use case. I want more._
 
 ## Advanced example
 >_What are the most advanced / complex / hard use cases of this tool?_
