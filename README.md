@@ -1,6 +1,6 @@
 # Introduction
 
->_I'm new to this tool and I've just 2 minutes to grasp the basic idea. Help me out!
+>_I'm new to this tool and I've just 2 minutes to grasp the basic idea. Help me out!_
 
 ## Overview
 
@@ -57,7 +57,7 @@ There is a ready-to-use example... To see the online demo... Do X to see it work
 
 ## Extended example
 
->_What else can I do with this tool? 
+>_What else can I do with this tool?_
 
 To better understand the power of this tool, check out following guides. To explore all of the functionalites, go to the API reference... 
 
@@ -117,4 +117,4 @@ If you want to help us out...
 
 ## Methods, Callbacks, Objects definitions
 
-< the full technical index of all methods, callbacks and objects >
+>_I expect here to see the full technical index of all methods, callbacks and objects._
