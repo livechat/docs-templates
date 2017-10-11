@@ -20,7 +20,7 @@ You can use this tool to build... This tool best works for...
 
 ## Important notes
 
->_How hard is to use this tool?_
+>_How hard is it to use this tool?_
 
 To use this tool you need to have basic knowledge about... This tool is easy to use for...
 
