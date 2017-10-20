@@ -95,5 +95,3 @@ If struggle to start see the [basic markdown template](https://github.com/livech
 7. Assume that the reader has zero knowledge and infinite intelligence.
 
 8. Imagine you're explaining what needs to be done to a fellow developer.
-
-# Technical details
