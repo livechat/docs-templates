@@ -1,9 +1,9 @@
 # Docs Contributing Guidelines
 
-1. [Before you start]()
-2. [Rules]()
-3. [Language]()
-4. [Formatting]()
+1. [Before you start](#before-you-start)
+2. [Rules](#rules)
+3. [Language](#language)
+4. [Formatting](#formatting)
 
 ## Before you start
 
