@@ -1,8 +1,13 @@
-# General Contributing Guidelines
+# Docs Contributing Guidelines
+
+1. [Before you start]()
+2. [Rules]()
+3. [Language]()
+4. [Formatting]()
 
 ## Before you start
 
-Before you start working on your docs, answer the **3W questions**:
+When working on your docs, answer the **3W questions**:
 
 - **Why** do you need to write it? 
 - **Who** is your target audience?
@@ -10,15 +15,15 @@ Before you start working on your docs, answer the **3W questions**:
 
 For example:
 
-I need to write this document (**why**) because I have updated the API. I have to notify (**who**) the developers about (**what**) new endpoints, callbacks and methods.
+> I need to write this document (**why**) because I have created this API. I have to notify (**who**) the developers about (**what**) new endpoints, callbacks and methods.
 
 This will help you focus on what you actually need to say, structure the text and keep the requirements of your target audience in mind.
 
-If struggle to start see the [basic markdown template](https://github.com/livechat/dev-docs-template).
+If you struggle to start with a new documentation, see the [basic markdown template](https://github.com/livechat/docs-templates/blob/master/docs-template.md).
 
-## Basic rules
+## Rules
 
-1. Follow the suggested template and publication flow.
+1. Follow the suggested [template](https://github.com/livechat/docs-templates/blob/master/docs-template.md) and publication flow.
 
 2. Go from the most important piece to the least important.
 
@@ -58,25 +63,15 @@ If struggle to start see the [basic markdown template](https://github.com/livech
 
 ## Formatting
 
-1. General
+1. Keep the fonts, indentations, spacing, etc. consistent.
 
-	- Keep the fonts, indentations, spacing, etc. consistent.
+2. Headings must clearly describe topic or purpose. Don't capitalize the titles.
 
-2. Headers
+4. Use a **bulleted list** for options, and a **numbered list** for steps. Create a list when you name three or more elements.
 
-	- Headings must clearly describe topic or purpose.
-	- Don't capitalize the titles.
-
-4. Lists
-
-	- Use a **bulleted list** for options. Create a bulleted list when you name three or more options.
-	- Use a **numbered list** for steps. Create a numbered list when you name two or more steps.
-
-5. Links
-
-	- Don’t obscure the links:
-	**Bad**: "For more details, go [here](https://docs.livechatinc.com/rest-api)."
-	**Good**: "For more details, go to [LiveChat REST API documentation](https://docs.livechatinc.com/rest-api)."
+5. Don’t obscure the links:
+	- **Bad**: "For more details, go [here](https://docs.livechatinc.com/rest-api)."
+	- **Good**: "For more details, go to [LiveChat REST API documentation](https://docs.livechatinc.com/rest-api)."
 
 ## Writing hints
 
