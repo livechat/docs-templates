@@ -1,4 +1,4 @@
-# Changelog Template
+# Docs Changelog Guidelines
 
 ## How to make a good changelog? 
 
