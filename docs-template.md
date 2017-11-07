@@ -95,9 +95,16 @@ Although this tool is dedicated to... we've seen people successfully using it to
 
 If you want to tailor this tool for your very specific use case...
 
-# Notes
+# Help & Support
 
->_I still have some questions. I've scrolled here impatiently. Where should I go?_
+>_I still have some questions. I've scrolled here impatiently. Where should I go, what should I do?_
+
+## FAQ
+
+>_I'm about to ask a really popular question. I want the answer now!_
+
+### Q: Is that a really short and simple question?
+Yes, it is! Those questions are the best – easy to skim and digest.
 
 ## Feedback
 
