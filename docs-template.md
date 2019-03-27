@@ -4,6 +4,8 @@
 
 ## Overview
 
+<img src="https://images.unsplash.com/photo-1551419762-4a3d998f6292?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=320&q=80"/>
+
 >_What does this tool do and why it exists? (Not how it works!)_
 
 This tool was created to... The primary job for this tool is to... With this tool you can easily...
@@ -18,7 +20,7 @@ The basic use case for this tool is... Usually this tool serves as a... This too
 
 You can use this tool to build... This tool best works for... 
 
-## Important notes
+## Is it for me?
 
 >_How hard is it to use this tool?_
 
@@ -32,48 +34,55 @@ This tool will not perform well for X, you should use Y instead... If you just w
 
 Currently this tool won't work for... Keep in mind that this tool is meant to... and not to...
 
-# Getting started
+>_What are the alternatives?_
+
+If you want to X, the better way is to use...
+
+# Quick start
 
 >_I got the basic idea. Now I need to see this tool in action!_
 
-## Prerequisites
+Follow these steps to quickly start using this tool...
 
->_What do I need to do, **before** I start using this tool?_
+>_Is there anything I need to do, **before** I start using this tool?_
 
 To start off with this tool, follow these steps:
 - prepare a valid...
 - create an account...
 - run the init...
 
-## Working example
-
->_I've prepared the workspace. What do I need to do, to see it running?_
+>_OK, I've prepared the workspace. What do I need to do, to see it running?_
 
 There is a ready-to-use example... To see the online demo... Do X to see it working...
 
-# Basic usage
+# Recipies (optional)
 
 >_Now, once I saw it in action, I want to see more._
 
-## Extended example
-
->_What else can I do with this tool?_
-
 To better understand the power of this tool, check out following guides. To explore all of the functionalites, go to the API reference... 
 
-### Guide on creating...
+## Guide on creating...
 
 ...
 
-### Using this tool to...
+## Using this tool to...
 
 ...
 
-### Guide on preparing...
+## Guide on preparing...
 
 ...
 
-# Advanced usage
+# API reference (optional)
+
+>_I'm here every day for the last week. Just let me know what this method does._
+
+## Methods, Callbacks, Objects definitions
+
+>_I expect here to see the full technical index of all methods, callbacks and objects._
+
+
+# Advanced usage (optional)
 
 >_I've already worked with this tool. I've mastered its basic use case. I want more._
 
@@ -95,7 +104,7 @@ Although this tool is dedicated to... we've seen people successfully using it to
 
 If you want to tailor this tool for your very specific use case...
 
-# Help & Support
+# Help
 
 >_I still have some questions. I've scrolled here impatiently. Where should I go, what should I do?_
 
@@ -118,10 +127,6 @@ The best way to leave the feedback is... We're always open for changes... Let us
 
 If you want to help us out...
 
-# API reference
+## Changelog
 
->_I'm here every day for the last week. Just let me know what this method does._
-
-## Methods, Callbacks, Objects definitions
-
->_I expect here to see the full technical index of all methods, callbacks and objects._
+>_I'm really curious when this was changed?_
